@@ -7,6 +7,7 @@ I have participated during this tutorial, and worked on the projects from this t
 ### Excel for Data Visualization
 ### Tableau for Data Visualization
 ### Python & Pandas for Data Visualization
+#### Altair for Data Visualization
 ### JavaScript for Data Visualization
 #### Vega-lite for Data Visualization
 #### D3.js for Data Visualization
