@@ -1,3 +1,7 @@
+# Ayush Gupta's Part using the fork of this repository
+
+I have participated during this tutorial, and worked on the projects from this tutorial at The Hong Kong University of Science and Technology. I have forked and provided this repository here for easier viewing. Soon, I will upload my work on these tutorials as well.
+
 # learning-vis-tools
 Welcome to the tutorial of COMP 4462 Data Visualization! You can find the materials used in the tutorial sessions here.
 
