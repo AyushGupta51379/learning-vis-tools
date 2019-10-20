@@ -9,7 +9,9 @@ I have participated during this tutorial, and worked on the projects from this t
 ### Python & Pandas for Data Visualization
 #### Altair for Data Visualization
 ### JavaScript for Data Visualization
+https://observablehq.com/@aguptaaf/comp-4462-data-visualization-tutorial-6-javascript-basics
 #### Vega-lite for Data Visualization
+https://observablehq.com/@aguptaaf/comp-4462-data-visualization-tutorial-7-vega-lite-and-data-p
 #### D3.js for Data Visualization
 
 # Below is the original repository from where I learnt Data Visualization in 2019.
